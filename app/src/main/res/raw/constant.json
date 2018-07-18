@@ -1,0 +1,43 @@
+[
+  {
+    "name": "pi",
+    "value": 3.14159,
+    "mantissa": 0
+  },
+  {
+    "name": "g",
+    "value": 9.81,
+    "mantissa": 0
+  },
+  {
+    "name": "G",
+    "value": 6.67,
+    "mantissa": -11
+  },
+  {
+    "name": "R",
+    "value": 8.3144598,
+    "mantissa": 0
+  },
+  {
+    "name": "k",
+    "value": 1.380662,
+    "mantissa": 23
+  },
+  {
+    "name": "kKylon",
+    "value": 8.8541878,
+    "mantissa": -12
+  },
+  {
+    "name": "kBolc",
+    "value": 1.38,
+    "mantissa": -23
+  },
+  {
+    "name": "c",
+    "value": 3,
+    "mantissa": 8
+  }
+
+]

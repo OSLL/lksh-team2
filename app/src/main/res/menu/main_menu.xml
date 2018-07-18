@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:sabd="http://schemas.android.com/tools">
+
+    <!--<item-->
+        <!--android:id="@+id/action_search"-->
+        <!--android:title="@string/app_name"-->
+        <!--android:icon="@drawable/ic_search_black_24dp"-->
+        <!--sabd:showAsAction="ifRoom|collapseActionView"-->
+        <!--sabd:actionViewClass="android.support.v7.widget.SearchView" />-->
+
+
+    <!--<item-->
+        <!--android:icon="@drawable/sharp_menu_white_24"-->
+        <!--android:id="@+id/settings"-->
+        <!--app:showAsAction="always"-->
+        <!--android:title="InBredible" />-->
+
+
+    <!--<item-->
+        <!--android:id="@+id/action_search"-->
+        <!--android:title="@android:string/search_go"-->
+        <!--android:icon="@drawable/ic_search_black_24dp"-->
+        <!--app:showAsAction="always|collapseActionView"-->
+
+        <!--app:actionViewClass="android.support.v7.widget.SearchView" />-->
+
+    <item
+        android:id="@+id/app_bar_menu_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="Search"
+        app:actionViewClass="android.support.v7.widget.SearchView"
+        app:showAsAction="always|collapseActionView" />
+
+    <item
+        android:id="@+id/app_bar_menu_settings"
+        android:title="Settings"
+        app:showAsAction="never"/>
+
+
+</menu>

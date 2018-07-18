@@ -1,0 +1,62 @@
+[
+  {
+    "typeCode": "math",
+    "typeName": "Математика",
+    "subtypes": [
+      {
+        "code": "algebra",
+        "subtypeName": "Алгебра"
+      },
+      {
+        "code": "geom",
+        "subtypeName": "Геометрия"
+      },
+      {
+        "code": "trigonometry",
+        "subtypeName": "Тригонометрия"
+      }
+    ]
+  },
+  {
+    "typeCode": "physics",
+    "typeName": "Физика",
+    "subtypes": [
+      {
+        "code": "dynamic",
+        "subtypeName": "Динамика"
+      },
+      {
+        "code": "mkt",
+        "subtypeName": "Основы МКТ"
+      },
+      {
+        "code": "electricity",
+        "subtypeName": "Электричество"
+      },
+      {
+        "code": "kinematics",
+        "subtypeName": "Кинематика"
+      }
+    ]
+  },
+  {
+    "typeCode": "chemistry",
+    "typeName": "Химия",
+    "subtypes": [
+      {
+        "code": "base",
+        "subtypeName": "Базовая"
+      }
+    ]
+  },
+  {
+    "typeCode": "informatics",
+    "typeName": "Информатика",
+    "subtypes": [
+      {
+        "code": "base",
+        "subtypeName": "Базовая"
+      }
+    ]
+  }
+]
